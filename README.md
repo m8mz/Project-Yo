@@ -8,6 +8,7 @@ Run the install script
 or run the following commands
 
 ```
+echo "export PERL5LIB=\"${HOME}/local/lib:${PERL5LIB}\"" >> ${HOME}/.bashrc
 mkdir -p ${HOME}/local/lib
 mkdir -p ${HOME}/local/cookies
 wget -O ${HOME}/local/lib/CSFE.pm https://raw.githubusercontent.com/marcushg36/Project-Yo/master/lib/CSFE.pm
