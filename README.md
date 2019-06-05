@@ -38,6 +38,7 @@ mhancock-gaillard$ yo -l ipw.testmmstech
 ```
 
 ```
+mhancock-gaillard$ yo -c ipw.testmmstech
 Name:           Marcus Hancock-Gaillard       
 Company Addr:   10 Corporate Dr. Burlington, MA 01803 USA
 Billing Addr:   10 Corporate Dr. Burlington, MA 01803 USA
