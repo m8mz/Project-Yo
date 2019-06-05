@@ -90,3 +90,16 @@ DNS Records:
 	NS         munix.tech                     ns2.yourhostingaccount.com
 	SOA        munix.tech                     ns1.yourhostingaccount.com admin.yourhostingaccount.com 2018060465 10800 3600 604800 3600
 ```
+
+```
+mhancock-gaillard$ spfndkim -d munix.tech
+ munix.tech:
+	 - Added SPF record
+	 - Added DKIM record
+mhancock-gaillard$ spfndkim -a ipw.testmmstech
+ munix.space:
+The domain 'munix.space' is not on the server.
+ munix.tech:
+	 - Added SPF record
+	 - Added DKIM record
+```
