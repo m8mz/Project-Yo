@@ -20,7 +20,7 @@ chmod +x ${HOME}/bin/yo
 ## Usage
 
 ```
-mhancock-gaillard$ yo -i EXAMPLE
+mhancock-gaillard$ yo -i ipw.testmmstech
 Marcus Hancock-Gaillard                            Permanent Test
 Managed VPS Optimum (VPS - Unix)                   (Active)
 SQ: What was your dream job as a child?            Programmer/Hacker
